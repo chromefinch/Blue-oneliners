@@ -28,3 +28,4 @@ else{foreach ($location in $locations) {
 Write-Host $location""}
 }}
 
+![see](https://raw.githubusercontent.com/chromefinch/Blue-oneliners/main/Screenshot%202023-09-27%20at%2011.28.53%20AM.png)
